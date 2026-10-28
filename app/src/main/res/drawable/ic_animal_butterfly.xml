@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background squircle -->
+    <path
+        android:fillColor="#E1BEE7"
+        android:pathData="M24,8 L72,8 A16,16 0 0,1 88,24 L88,72 A16,16 0 0,1 72,88 L24,88 A16,16 0 0,1 8,72 L8,24 A16,16 0 0,1 24,8 Z" />
+    <!-- Top Left Wing -->
+    <path
+        android:fillColor="#BA68C8"
+        android:pathData="M48,46 C40,24 16,24 18,44 C19,54 36,54 48,46 Z" />
+    <!-- Top Right Wing -->
+    <path
+        android:fillColor="#BA68C8"
+        android:pathData="M48,46 C56,24 80,24 78,44 C77,54 60,54 48,46 Z" />
+    <!-- Bottom Left Wing -->
+    <path
+        android:fillColor="#CE93D8"
+        android:pathData="M48,48 C38,54 24,62 30,74 C36,80 46,68 48,48 Z" />
+    <!-- Bottom Right Wing -->
+    <path
+        android:fillColor="#CE93D8"
+        android:pathData="M48,48 C58,54 72,62 66,74 C60,80 50,68 48,48 Z" />
+    <!-- Wing spots -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M30,36 A5,5 0 1,1 30,36.1 Z" />
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M66,36 A5,5 0 1,1 66,36.1 Z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#4A148C"
+        android:pathData="M46,30 C46,28 50,28 50,30 L50,70 C50,72 46,72 46,70 Z" />
+    <!-- Head -->
+    <path
+        android:fillColor="#6A1B9A"
+        android:pathData="M48,26 A5,5 0 1,1 48,26.1 Z" />
+</vector>

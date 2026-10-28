@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mundo Amber</string>
+    <string name="child_name">Amber</string>
+    <string name="welcome_message">¡Hola Amber! ¿A qué jugamos hoy?</string>
+    <string name="parent_zone_title">Zona de Papás</string>
+    <string name="parent_gate_question">Pregunta para papás:</string>
+    <string name="sticker_album_title">Álbum de Pegatinas</string>
+    <string name="numbers_game_title">Números Mágicos</string>
+    <string name="vowels_game_title">Las Vocales</string>
+    <string name="shapes_game_title">Figuras y Colores</string>
+    <string name="memory_game_title">Memoria de Animales</string>
+    <string name="bubble_pop_title">Burbujas Divertidas</string>
+    <string name="magic_canvas_title">Pintura Mágica</string>
+    <string name="music_xylophone_title">Xilófono de Animales</string>
+</resources>

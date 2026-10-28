@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background squircle -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M24,8 L72,8 A16,16 0 0,1 88,24 L88,72 A16,16 0 0,1 72,88 L24,88 A16,16 0 0,1 8,72 L8,24 A16,16 0 0,1 24,8 Z" />
+    <!-- Duck Body -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M32,46 C32,46 38,68 62,68 C76,68 82,58 82,52 C78,54 70,52 68,48 C68,48 58,44 50,44 C40,44 32,46 32,46 Z" />
+    <!-- Duck Head -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M36,36 C36,25 45,18 56,18 C67,18 76,25 76,36 C76,46 67,52 56,52 C45,52 36,46 36,36 Z" />
+    <!-- Duck Beak -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M68,36 L86,40 C84,45 74,46 68,44 Z" />
+    <!-- Duck Eye -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M58,30 A4,4 0 1,1 58,30.1 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59,29 A1.5,1.5 0 1,1 59,29.1 Z" />
+    <!-- Cheek -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M50,38 A4,3 0 1,1 50,38.1 Z" />
+    <!-- Wing -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M42,50 C42,50 48,60 60,60 C64,60 68,56 64,52 C58,46 48,48 42,50 Z" />
+</vector>
